@@ -27,8 +27,8 @@ Debes tener instalado el [JRE](http://www.java.com/es/download/) que es el entor
  1. Solo debes ejecutar el archivo **SimuladorPlanificacionSO.jar** dentro de la carpeta raíz 
 
 ## ScreenShots
-![Main](https://dl.dropbox.com/s/4mbpkeg67ucndy1/Captura%20de%20pantalla%202013-10-24%20a%20la%28s%29%2000.17.37.png)
+![image](https://user-images.githubusercontent.com/3026639/68531561-59ca6900-02f2-11ea-9ada-7abbba488777.png)
 
-![Algoritmos](https://dl.dropbox.com/s/3558ps3w45t1bbv/Captura%20de%20pantalla%202013-10-24%20a%20la%28s%29%2000.18.16.png)
+![image](https://user-images.githubusercontent.com/3026639/68531565-63ec6780-02f2-11ea-81a3-f2aef5b57ef1.png)
 
-![Parametros](https://dl.dropbox.com/s/myvtf0893awnn1q/Captura%20de%20pantalla%202013-10-24%20a%20la%28s%29%2000.18.25.png)
+![image](https://user-images.githubusercontent.com/3026639/68531567-6949b200-02f2-11ea-9bde-f89000fd2023.png)
